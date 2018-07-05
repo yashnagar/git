@@ -1,3 +1,0 @@
-This is seconf file from a branch.
-second line from firstbranch.
-third line...from master
